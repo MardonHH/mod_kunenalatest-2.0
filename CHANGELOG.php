@@ -30,6 +30,9 @@ Legend:
 
 KunenaLatest 2.0.0-DEV
 
+04-February-2012 Xillibit
+Add support for Joomla! 1.7 and 2.5
+
 12-April-2011 Matias
 # [#24676] Module doesn't obey category or time selection
 # [#24676] Load Kunena component language file
